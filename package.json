@@ -3,16 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "enzyme": "^2.8.2",
     "react-scripts": "^1.0.2",
     "react-test-renderer": "^15.6.1"
   },
   "dependencies": {
+    "enzyme": "^3.2.0",
+    "enzyme-adapter-react-16": "^1.1.1",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17",
     "react-redux": "^5.0.5",
+    "react-scripts": "1.0.17",
     "redux": "^3.5.2"
   },
   "scripts": {
